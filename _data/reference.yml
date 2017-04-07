@@ -38,26 +38,20 @@ toc:
       - docs/admin/authorization/rbac.md
     - docs/admin/admission-controllers.md
     - docs/admin/service-accounts-admin.md
-  - docs/api-reference/v1/operations.html
-  - docs/api-reference/v1/definitions.html
+  - docs/api-reference/v1.6/index.html
   - docs/api-reference/labels-annotations-taints.md
 
 - title: Autoscaling API
   section:
-  - docs/api-reference/autoscaling/v1/operations.html
-  - docs/api-reference/autoscaling/v1/definitions.html
+  - docs/api-reference/v1.6/index.html#horizontalpodautoscaler-v1-autoscaling
 
 - title: Batch API
   section:
-  - docs/api-reference/batch/v1/operations.html
-  - docs/api-reference/batch/v1/definitions.html
+  - docs/api-reference/v1.6/index.html#job-v1-batch
 
 - title: Apps API
   section:
-  - title: Apps API Operations
-    path: /docs/api-reference/apps/v1beta1/operations/
-  - title: Apps API Definitions
-    path: /docs/api-reference/apps/v1beta1/definitions/
+  - docs/api-reference/v1.6/index.html#deployment-v1beta1-apps
 
 - title: Extensions API
   section:
